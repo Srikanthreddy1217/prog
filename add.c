@@ -5,5 +5,8 @@ int main()
 a=10;
 b=20;
 c=a+b;
-printf("%d",c);
+int d=40;
+int e=c+d;
+printf("%d\n",c);
+printf("%d\n",d);
 }
